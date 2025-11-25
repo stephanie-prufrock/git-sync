@@ -1,0 +1,31 @@
+<svg id="_02_Product_Direct_Connect_L" data-name="02_Product_Direct Connect_L" xmlns="http://www.w3.org/2000/svg" width="31.999" height="32" viewBox="0 0 31.999 32">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4 {
+        fill: #364fc7;
+      }
+
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-2 {
+        opacity: 0.75;
+      }
+
+      .cls-4 {
+        opacity: 0.6;
+      }
+    </style>
+  </defs>
+  <path id="xx" class="cls-1" d="M0,0H32V32H0Z"/>
+  <g id="그룹_114169" data-name="그룹 114169" transform="translate(0 0)">
+    <g id="그룹_114038" data-name="그룹 114038" class="cls-2" transform="translate(0)">
+      <path id="사각형_143935" data-name="사각형 143935" class="cls-3" d="M1,0H3A1,1,0,0,1,4,1V11a1,1,0,0,1-1,1H1a1,1,0,0,1-1-1V1A1,1,0,0,1,1,0Z" transform="translate(23.999 13.999)"/>
+      <path id="사각형_143934" data-name="사각형 143934" class="cls-3" d="M1,0H3A1,1,0,0,1,4,1V11a1,1,0,0,1-1,1H1a1,1,0,0,1-1-1V1A1,1,0,0,1,1,0Z" transform="translate(3.999 13.999)"/>
+      <path id="사각형_143651" data-name="사각형 143651" class="cls-3" d="M1,0H3A1,1,0,0,1,4,1V19a1,1,0,0,1-1,1H1a1,1,0,0,1-1-1V1A1,1,0,0,1,1,0Z" transform="translate(13.999 10.001)"/>
+      <path id="패스_206080" data-name="패스 206080" class="cls-4" d="M26.832,21c3.4.007,6.16-2.475,6.167-5.54a5.567,5.567,0,0,0-3.723-5.111C28.882,4.842,23.614.667,17.509,1.02A10.982,10.982,0,0,0,7.763,7.7C3.7,8.011.682,11.235,1.027,14.9c.322,3.442,3.513,6.091,7.344,6.1Z" transform="translate(-1 -1)"/>
+    </g>
+    <path id="합치기_240" data-name="합치기 240" class="cls-3" d="M20,22a4,4,0,1,1,4,4A4,4,0,0,1,20,22ZM10,22a4,4,0,1,1,4,4A4,4,0,0,1,10,22ZM0,22a4,4,0,1,1,4,4A4,4,0,0,1,0,22ZM10,4a4,4,0,1,1,4,4A4,4,0,0,1,10,4Z" transform="translate(1.999 6.001)"/>
+  </g>
+</svg>
